@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link{
+  font-size: 25px;
+  
+}
+.brand{
+    letter-spacing: 2px;
+    margin-left: 790px;
+    padding-right: 440px;
+    color: red;
+    font-weight: bolder;
+    font-size: 45px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+}
+
+
+.card{
+  transition: all 0.5s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.prd img{
+  transition: all 0.5s ease;
+}
+
+.prd img:hover{
+  transform: scale(1.1);
+}
+
+#profileId{
+  margin-left: 690px;
+  margin-top: 50px;
+}
+
+#greeting{
+  margin-left: 770px;
+}
