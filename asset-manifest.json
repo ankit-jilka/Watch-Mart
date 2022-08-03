@@ -1,7 +1,7 @@
 {
   "main.css": "/Watch-Mart/static/css/main.be7922c3.chunk.css",
-  "main.js": "/Watch-Mart/static/js/main.96778b37.chunk.js",
-  "main.js.map": "/Watch-Mart/static/js/main.96778b37.chunk.js.map",
+  "main.js": "/Watch-Mart/static/js/main.4eb84d45.chunk.js",
+  "main.js.map": "/Watch-Mart/static/js/main.4eb84d45.chunk.js.map",
   "static/js/1.4e9aafb9.chunk.js": "/Watch-Mart/static/js/1.4e9aafb9.chunk.js",
   "static/js/1.4e9aafb9.chunk.js.map": "/Watch-Mart/static/js/1.4e9aafb9.chunk.js.map",
   "static/css/2.6a82314e.chunk.css": "/Watch-Mart/static/css/2.6a82314e.chunk.css",
@@ -13,6 +13,6 @@
   "static/css/main.be7922c3.chunk.css.map": "/Watch-Mart/static/css/main.be7922c3.chunk.css.map",
   "static/css/2.6a82314e.chunk.css.map": "/Watch-Mart/static/css/2.6a82314e.chunk.css.map",
   "index.html": "/Watch-Mart/index.html",
-  "precache-manifest.ea720ed20f3f10617379d787a1101b1b.js": "/Watch-Mart/precache-manifest.ea720ed20f3f10617379d787a1101b1b.js",
+  "precache-manifest.0c7e49206fd6fe1e106dc1fc31515383.js": "/Watch-Mart/precache-manifest.0c7e49206fd6fe1e106dc1fc31515383.js",
   "service-worker.js": "/Watch-Mart/service-worker.js"
 }
